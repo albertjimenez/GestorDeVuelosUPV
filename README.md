@@ -6,3 +6,12 @@ Práctica dedicada a una escritura y lectura de ficheros de texto, junto con una
 
     -> Object[]
     -> int talla (size)
+
+Funciones:
+
+    -> Mostrar Vuelos:
+    ![alt tag](http://imgur.com/A91JaJO.png)
+    -> Reservar:
+    ![alt tag](http://imgur.com/Wa0aXwT.png)
+    -> Cancelar Reserva: 
+    ![alt tag](http://imgur.com/MakvING.png)
